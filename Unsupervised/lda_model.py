@@ -149,7 +149,7 @@ class Lda():
         plt.margins(x=0, y=0)
         plt.show()
 
-data = fc.load_data("pertamina.xlsx")
+
 """
 df = load_data("Voxpopdata.xlsx")
 remove_user = remove_username(df,"text")

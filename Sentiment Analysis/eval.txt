@@ -1,0 +1,14 @@
+
+Epoch	Training Loss	Validation Loss	Accuracy
+1	No log	0.780704	0.715000
+2	0.835000	1.058782	0.635000
+3	0.835000	0.276355	0.940000
+4	0.526300	0.191288	0.970000
+5	0.526300	0.200461	0.965000
+
+{'eval_loss': 0.2004609853029251,
+ 'eval_accuracy': 0.965,
+ 'eval_runtime': 7.3221,
+ 'eval_samples_per_second': 27.314,
+ 'eval_steps_per_second': 3.414,
+ 'epoch': 5.0}
